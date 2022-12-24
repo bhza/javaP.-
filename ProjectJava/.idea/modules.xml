@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectJava.iml" filepath="$PROJECT_DIR$/.idea/ProjectJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argumentos/argumentos.iml" filepath="$PROJECT_DIR$/argumentos/argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erros.java/erros.java.iml" filepath="$PROJECT_DIR$/erros.java/erros.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programas-dinamicos/programas-dinamicos.iml" filepath="$PROJECT_DIR$/programas-dinamicos/programas-dinamicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectJava/projectJava.iml" filepath="$PROJECT_DIR$/projectJava/projectJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis.java/variaveis.java.iml" filepath="$PROJECT_DIR$/variaveis.java/variaveis.java.iml" />
+    </modules>
+  </component>
+</project>
